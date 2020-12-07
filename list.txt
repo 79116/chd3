@@ -6,16 +6,15 @@ https://codeforces.com/contest/940/problem/B (easy, greedy) (code: done) (test: 
 https://atcoder.jp/contests/arc081/tasks/arc081_b (code: done) (test: done) (statement: done)
 MEDIUM
 //knapsack
-https://codeforces.com/problemset/problem/453/B (medium - hard, dp bitmask) (code: done) (chi in ra ket qua thoi ko nang qua)
+https://codeforces.com/problemset/problem/453/B (medium - hard, dp bitmask) (code: done) (statement: done)
 https://codeforces.com/problemset/problem/1288/D (medium, bruteforce, bitmask) (code: done)
-https://codeforces.com/problemset/problem/1250/M? (hard, dnc) (code: done) (can checker)
+https://codeforces.com/problemset/problem/1250/M? (hard, dnc) (code: done) 
 https://codeforces.com/gym/102759/problem/H (medium, binary search, greedy) (code: done)
 https://codeforces.com/problemset/problem/1327/F (hard, dp) (code: done) (ha gioi han xuong n = 1000, m <= 1000, tat ca cac so chi co 1 bit)
 
 HARD
-https://codeforces.com/problemset/problem/205/B (medium - hard, greedy)// doi de thanh tat ca cac  so bang nhau  
-(co nen de n = 3000?) (code: done)
-https://codeforces.com/gym/101821/problem/A (hard, vui ve, nhan xet) (code: done)
+https://codeforces.com/problemset/problem/205/B (medium - hard, greedy)// doi de thanh tat ca cac  so bang nhau (code: done)
+https://codeforces.com/gym/101821/problem/A (hard, vui ve, nhan xet) (code: done) (statement: done)
 
 additional
 
